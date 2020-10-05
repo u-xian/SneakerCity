@@ -25,5 +25,5 @@ The application provide below features :
 ## Installation
 
 - Ensure you have NodeJS isntalled on your local machine
-- run ### npm install### to install all dependencies
-- start the app running ### npm start ### and it will open automatically this url : http://localhost:3000 in a web browser
+- run **npm install** to install all dependencies
+- start the app running **npm start** and it will open automatically this url : http://localhost:3000 in a web browser
