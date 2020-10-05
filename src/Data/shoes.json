@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "brand_name": "Nike",
+    "model": "Lunar",
+    "price": "25000",
+    "picture": "1.png",
+    "release_date": "2018-05-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 2,
+    "brand_name": "Nike",
+    "model": "SB Koston",
+    "price": "30000",
+    "picture": "2.png",
+    "release_date": "2018-12-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 3,
+    "brand_name": "Nike",
+    "model": "Lab ACG",
+    "price": "25000",
+    "picture": "3.png",
+    "release_date": "2018-08-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 4,
+    "brand_name": "Nike",
+    "model": "Skate Mental",
+    "price": "25000",
+    "picture": "4.png",
+    "release_date": "2018-05-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 5,
+    "brand_name": "Nike",
+    "model": "Lab Air Zoom LWP",
+    "price": "25000",
+    "picture": "5.png",
+    "release_date": "2013-05-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 6,
+    "brand_name": "Nike",
+    "model": "Atmos",
+    "price": "25000",
+    "picture": "6.png",
+    "release_date": "2019-05-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 7,
+    "brand_name": "Adidas",
+    "model": "Ultra Boost",
+    "price": "25000",
+    "picture": "7.png",
+    "release_date": "2012-05-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 8,
+    "brand_name": "Adidas",
+    "model": "Energy Boost",
+    "price": "25000",
+    "picture": "8.png",
+    "release_date": "2016-09-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 9,
+    "brand_name": "Adidas",
+    "model": "Supernova",
+    "price": "25000",
+    "picture": "9.png",
+    "release_date": "2017-01-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 10,
+    "brand_name": "Adidas",
+    "model": "Adizero Boston",
+    "price": "25000",
+    "picture": "10.png",
+    "release_date": "2017-07-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 11,
+    "brand_name": "Adidas",
+    "model": "Aerobounce",
+    "price": "25000",
+    "picture": "11.png",
+    "release_date": "2017-10-12",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 12,
+    "brand_name": "Adidas",
+    "model": "Ultra Boost ST",
+    "price": "25000",
+    "picture": "12.png",
+    "release_date": "2018-05-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 13,
+    "brand_name": "Adidas",
+    "model": "Supernova ST",
+    "price": "25000",
+    "picture": "13.png",
+    "release_date": "2018-02-07",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 14,
+    "brand_name": "Adidas",
+    "model": " Adizero Tempo",
+    "price": "25000",
+    "picture": "14.png",
+    "release_date": "2018-11-25",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  },
+  {
+    "id": 15,
+    "brand_name": "Nike",
+    "model": "Air Rift Wrap",
+    "price": "25000",
+    "picture": "15.png",
+    "release_date": "2018-06-11",
+    "shoessize": [
+      { "id": 1, "size": "sm", "quantity": 4 },
+      { "id": 2, "size": "md", "quantity": 5 },
+      { "id": 3, "size": "xxl", "quantity": 7 }
+    ]
+  }
+]

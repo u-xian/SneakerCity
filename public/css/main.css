@@ -1,0 +1,22 @@
+.productcard {
+  width: 250px;
+}
+
+.products {
+  list-style-type: none;
+  margin: 5;
+  padding: 5px;
+}
+
+.items {
+  background: #eeeeee;
+  border: 1px solid #d3d3d3;
+  padding: 5px 5px 5px 5px;
+  width: 200px;
+  height: 300px;
+  text-align: center;
+  float: left;
+  display: inline-block;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
